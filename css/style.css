@@ -4,4 +4,16 @@ body {
 .container {
     max-width: 1170px;
     margin: 0 auto;
+
+   
+}
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 500px;
+    height: 200px;
+
+    border: 2px solid rgb(201, 184, 138);
 }
