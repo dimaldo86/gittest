@@ -1,5 +1,5 @@
 body {
-    background: #cd81f0;
+    background: #d3b2e2;
 }
 .container {
     max-width: 1170px;
@@ -24,4 +24,8 @@ body {
     font-weight: bold;
     color: aqua;
     text-decoration: line-through;
+}
+h4 {
+    color: blueviolet;
+    font-size: 24px;
 }
